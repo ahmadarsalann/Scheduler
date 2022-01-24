@@ -1,0 +1,7 @@
+CPSC 405 - Sceduler Project Log
+
+03/11/2021: 6:05pm - 1:00 am
+	Worked on the lottery directory with proc.c
+
+03/12/2020: 4:30 pm -  
+	Worked on the CFS directory with proc.c
